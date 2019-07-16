@@ -39,3 +39,9 @@ luac.out
 *.x86_64
 *.hex
 
+
+addon\.json
+
+ttt2-item_speedrun\.gma
+
+ttt2-item_speedrun\.jpg
