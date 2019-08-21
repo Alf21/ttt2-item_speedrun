@@ -12,7 +12,6 @@ ITEM.EquipMenuData = {
 	desc = "You are 50% faster!"
 }
 ITEM.material = "vgui/ttt/icon_speedrun"
-ITEM.notBuyable = true
 ITEM.CanBuy = {ROLE_TRAITOR, ROLE_DETECTIVE}
 
 if SERVER then
